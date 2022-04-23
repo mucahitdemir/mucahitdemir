@@ -1,7 +1,7 @@
 # Hi there, I'm Mücahit 👋 
 
 
-## I'm a junior embedded software engineer
+## I'm a candidate software engineer at Aspilsan Energy
 
 - 🔭 Passionate about self-driving technology
 - 🌱 I’m currently learning Battery Management Systems
@@ -17,7 +17,7 @@
 &nbsp;&nbsp;
 
 
-### Languages and Tools:
+### Technical Skills and Tools:
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
