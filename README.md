@@ -25,6 +25,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/C_Logo.png" />](#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/c++.png" />](#gh-light-mode-only)
 
 
 </details>
