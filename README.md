@@ -40,5 +40,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/mucahitdemirci
 
