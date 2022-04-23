@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mucahitdemirci/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mucahitdemirci/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mucahitdemirci/#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mucahitdemirci/#gh-light-mode-only)
 &nbsp;&nbsp;
 
 
