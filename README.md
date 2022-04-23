@@ -1,13 +1,13 @@
 # Hi there, I'm Mücahit 👋 
 
 
-## I'm a junior embedded software engineer who is passionate about self-driving technology.
+## I'm a junior embedded software engineer
 
-- 🔭 
+- 🔭 Passionate about self-driving technology
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: C++, Embedded Linux, Functional Safety Standards
-- ⚡ Fun fact: I love to collect stamps and coins, also obsrve birds for more than 4 years
+- ⚡ By the way: I love to collect stamps and coins, also obsrve birds for more than 4 years
 
 
 ### Connect with me:
