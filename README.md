@@ -5,9 +5,10 @@
 
 - 🔭 Passionate about self-driving technology
 - 🌱 I’m currently learning Battery Management Systems
-- 👯 I’m looking to collaborate with other engineers
 - 🥅 2022 Goals: C++, Embedded Linux, Functional Safety Standards, Think twice, code ones
 - ⚡ By the way: I love to collect stamps and coins, also observe birds for more than 4 years
+- 👯 Ask me about microcontrollers (ST, TI, etc.), BMS, IoT, and Communication Networks
+
 
 
 ### Connect with me:
