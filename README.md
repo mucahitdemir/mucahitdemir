@@ -5,7 +5,7 @@
 
 - 🔭 Passionate about self-driving technology
 - 🌱 I’m currently learning Battery Management Systems
-- 🥅 2022 Goals: C++, Embedded Linux, Real-Time Operation Systems (RTOS)
+- 🥅 2022 Goals: Master in automotive industry, C++, Embedded Linux, Real-Time Operation Systems (RTOS)
 - ⚡ By the way: I love collecting stamps and old coins from all around the world, also observe birds for more than 4 years
 - 👯 Ask me about **microcontrollers** (ST, TI, etc.), **BMS**, **IoT**, and **Communication Networks**
 
