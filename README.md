@@ -10,13 +10,11 @@
 - 👋 Ask me about **microcontrollers** (ST, TI, ESP, etc.), **BMS**, **IoT**, and **Communication Networks** (TCP/IP, Wi-Fi)
 
 
-
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mucahitdemirci/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mucahitdemirci/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 
 ### Technical Skills and Tools:
 
@@ -31,7 +29,6 @@
 [<img align="left" alt="Python" width="26px" src="./img/python.png" />](#gh-dark-mode-only)
 
 
-<summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="mucahitdemir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mucahitdemir&show_icons=true&hide_border=true" />
 
