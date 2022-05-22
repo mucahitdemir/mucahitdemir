@@ -32,8 +32,6 @@
 
 </details>
 
-
-  
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="mucahitdemir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mucahitdemir&show_icons=true&hide_border=true" />
