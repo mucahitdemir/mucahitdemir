@@ -30,7 +30,6 @@
 [<img align="left" alt="Python" width="26px" src="./img/python.png" />](#gh-light-mode-only)
 [<img align="left" alt="Python" width="26px" src="./img/python.png" />](#gh-dark-mode-only)
 
-</details>
 
 <summary>:zap: GitHub Stats</summary>
 
