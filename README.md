@@ -1,4 +1,4 @@
-# Hi there, I'm Mücahit 👋 
+# Hi there! I'm Mücahit 👋 
 
 
 ## I'm a candidate embedded software engineer at Aspilsan Energy
