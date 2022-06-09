@@ -8,6 +8,7 @@
 - 🥅 2022-2023 Goals: C++, Embedded Linux, Real-Time Operation Systems (RTOS)
 - ⚡ By the way: I love collecting **postcards**, **stamps**, and old **coins** from all around the world, also observe birds for more than 4 years
 - 👋 Ask me about **microcontrollers** (ST, TI, ESP, etc.), **BMS**, **IoT**, and **Communication Networks** (TCP/IP, Wi-Fi)
+- 👉 You can find my studies at https://www.researchgate.net/profile/Mucahit-Demirci-2
 
 
 ### Connect with me:
