@@ -1,5 +1,5 @@
 # Hi! 👋 
-## I'm an embedded software engineer at Aspilsan Energy
+## I'm an Embedded Software Engineer
 - 🔭 Passionate about self-driving technology
 - 🌱 I’m currently learning Battery Management Systems
 - 🥅 2022-2023 Goals: C++, Embedded Linux, Real-Time Operation Systems (RTOS)
