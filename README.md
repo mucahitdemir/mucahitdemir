@@ -1,6 +1,6 @@
 # Hi! 👋 
 ## I'm an Embedded Software Engineer
-- 🔭 Passionate about self-driving technology
+- 🔭 Passionate about e-mobility
 - 🌱 I’m currently learning Battery Management Systems
 - 🥅 2022-2023 Goals: C++, Embedded Linux, Real-Time Operation Systems (RTOS), Model-based System Development
 - ⚡ By the way: I love collecting **postcards**, **stamps**, and old **coins** from all around the world, also observe birds for more than 4 years
