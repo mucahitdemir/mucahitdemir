@@ -1,11 +1,10 @@
 # Hi! 👋 
 ## I'm an Embedded Software Engineer
 - 🔭 Passionate about e-mobility
-- 🌱 I’m currently learning AUTOSAR
+- 🌱 I’m currently learning AUTOSAR and Cloud
 - 🥅 2023-2024 Goals: C++, Embedded Linux, Real-Time Operation Systems (RTOS)
 - ⚡ By the way: I love collecting **postcards**, **stamps**, and old **coins** from all around the world, also observe birds for more than 4 years
-- 👋 Ask me about **microcontrollers** (ST, TI, etc.), **ARM CPUs**, **Internet of Things** (TCP/IP, BLE)
-- 👉 You can find my studies at https://www.researchgate.net/profile/Mucahit-Demirci-2
+- 👋 Ask me about **microcontrollers** (Infineon (TriCore), NXP, Analog Devices, ST, TI, etc.), **ARM CPUs**, **Internet of Things** (TCP/IP, BLE)
 
 
 ### Connect with me:
